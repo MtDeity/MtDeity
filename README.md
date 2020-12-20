@@ -72,7 +72,7 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 #### SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜11月）
 
 - 1人で設計、実装、試験、リリースを担当。
-- AWSは未経験であったが、迅速にキャッチアップし、EC2とRDSを使用した環境を構築。CSVファイルのインポート・エクスポート、バッチ処理でのSMSの配信機能を作成した。DB設計やマニュアルの作成、顧客への説明も担当した。
+- AWSは未経験であったが、迅速にキャッチアップし、EC2とRDSを使用した環境を構築。CSVファイルのインポート・エクスポート、バッチ処理でのSMSの配信機能を実装した。DB設計やマニュアルの作成、顧客への説明も担当した。
 
 #### 車両状況モニタリングアプリ改修【Xamarin】（2020年9月）
 
@@ -84,7 +84,7 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 
 - IoT案件の事業者用管理画面の新規機能追加。
 - 5名チームで実装、試験を担当。
-- 既存サービスの管理画面に、表示カラムの選択機能やCSVでのダウンロード機能等の機能を追加。
+- 既存サービスの管理画面に、表示カラムの選択機能やCSVでのダウンロード機能等を追加。
 
 #### 車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜現在）
 
@@ -95,14 +95,14 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 
 - Redmineライクな社内タスク管理システムの新規開発案件。
 - 4名チームで実装、試験を担当。
-- Laravel/Vue.jsは未経験であったが迅速にキャッチアップ。データベースはMySQLを使用し、バックエンドはLaravelでAPIを作成し、フロントエンドはVue.jsでSPA化。スマホ対応のレスポンシブデザインで、クライアント側でソートやフィルタ、ページネーションなどを行えるようにした。
+- Laravel/Vue.jsは未経験であったが迅速にキャッチアップ。データベースはMySQLを使用、バックエンドはLaravelでAPIを開発、フロントエンドはVue.jsでSPA化した。スマホ対応のレスポンシブデザインで、クライアント側でソートやフィルタ、ページネーションなどを行えるようにした。
 
 ### 各種リンク
 
 - [GitHub](https://github.com/MtDeity)
 - [Twitter](https://twitter.com/MtDeity)
 - [Qiita](https://qiita.com/MtDeity)
-- [LeetCode](hhttps://leetcode.com/MtDeity)
+- [LeetCode](https://leetcode.com/MtDeity)
 - [AtCoder](https://atcoder.jp/users/mtdeity)
 - [LAPRAS](https://lapras.com/public/3XY5MWN)
 - [teratail](https://teratail.com/users/MtDeity)
