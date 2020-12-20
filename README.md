@@ -1,9 +1,7 @@
 <details>
 <summary>
-    職務経歴書
+    職務経歴書（最終更新日: 2020年12月20日）
 </summary>
-
-最終更新日: 2020年12月20日
 
 - [業務経歴](#業務経歴)
   - [概要](#概要)
@@ -102,11 +100,12 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 - [GitHub](https://github.com/MtDeity)
 - [Twitter](https://twitter.com/MtDeity)
 - [Qiita](https://qiita.com/MtDeity)
+- [LinkedIn](https://www.linkedin.com/in/satoshikamiyama)
+- [LAPRAS](https://lapras.com/public/3XY5MWN)
 - [LeetCode](https://leetcode.com/MtDeity)
 - [AtCoder](https://atcoder.jp/users/mtdeity)
-- [LAPRAS](https://lapras.com/public/3XY5MWN)
-- [teratail](https://teratail.com/users/MtDeity)
 - [Stack Overflow](https://stackoverflow.com/users/14691794)
+- [teratail](https://teratail.com/users/MtDeity)
 - [Connpass](https://connpass.com/user/MtDeity)
 
 ## お仕事のご依頼
