@@ -14,7 +14,7 @@
       - [(GCP)](#gcp)
     - [その他](#その他)
   - [主な業務経歴](#主な業務経歴)
-    - [APIゲートウェイ新規開発【Laravel/Vue.js/MySQL/AWS】（2020年12月〜2021年1月）](#apiゲートウェイ新規開発laravelvuejsmysqlaws2020年12月2021年1月)
+    - [APIゲートウェイ新規開発【Spring Boot/PostgreSQL】（2020年12月〜2021年1月）](#apiゲートウェイ新規開発spring-bootpostgresql2020年12月2021年1月)
     - [SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜11月）](#sms配信システム新規開発laravelvuejsmysqlaws2020年10月11月)
     - [車両状況モニタリングアプリ改修【Xamarin】（2020年9月）](#車両状況モニタリングアプリ改修xamarin2020年9月)
     - [装置稼働状況監視システム新規機能追加【Laravel/Vue.js/PostgreSQL】（2020年7月〜8月）](#装置稼働状況監視システム新規機能追加laravelvuejspostgresql2020年7月8月)
