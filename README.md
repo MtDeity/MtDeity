@@ -61,7 +61,7 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 
 ### 主な業務経歴
 
-#### APIゲートウェイ新規開発【Laravel/Vue.js/MySQL/AWS】（2020年12月〜2021年1月）
+#### APIゲートウェイ新規開発【Spring Boot/PostgreSQL】（2020年12月〜2021年1月）
 
 - モバイルアプリ間との認証を行うAPIゲートウェイの新規開発案件。
 - 1人で設計、実装、試験、リリースを担当。
