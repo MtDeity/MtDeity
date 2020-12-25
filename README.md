@@ -1,6 +1,6 @@
 <details>
 <summary>
-    職務経歴書（最終更新日: 2020年12月21日）
+    職務経歴書（最終更新日: 2020年12月25日）
 </summary>
 
 - [業務経歴](#業務経歴)
@@ -113,7 +113,7 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 - 業務形態: 準委任契約で出社またはリモート（最寄り駅は渋谷駅）
 - 稼働: 2〜5日/週
 - 時間単価: 4000円〜/時
-- 業務では主にLaravel/Vue.js/AWSを使用していますが、GoやPython、英語を使用する案件にも興味があり（この場合、時間単価や稼働時間は条件を満たさなくても柔軟に対応可能です）、現在学習を進めています。
+- 業務では主にLaravel/Vue.js/AWSを使用していますが、GoやPython、Kotlinや英語を使用する案件にも興味があり（この場合、時間単価や稼働時間は条件を満たさなくても柔軟に対応可能です）、現在学習を進めています。
 - [TwitterのDM](https://twitter.com/messages/compose?recipient_id=1177206127823470593)等からご連絡ください。
 
 </details>
