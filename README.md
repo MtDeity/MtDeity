@@ -1,101 +1,90 @@
 <details>
 <summary>
-    職務経歴書（最終更新日: 2020年12月25日）
+    職務経歴書（最終更新日: 2021年1月31日）
 </summary>
 
-- [業務経歴](#業務経歴)
-  - [概要](#概要)
-  - [スキル](#スキル)
-    - [言語](#言語)
-    - [フレームワーク等](#フレームワーク等)
-    - [データベース](#データベース)
-    - [クラウド](#クラウド)
-      - [AWS](#aws)
-      - [(GCP)](#gcp)
-    - [その他](#その他)
-  - [主な業務経歴](#主な業務経歴)
-    - [APIゲートウェイ新規開発【Spring Boot/PostgreSQL】（2020年12月〜2021年1月）](#apiゲートウェイ新規開発spring-bootpostgresql2020年12月2021年1月)
-    - [SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜11月）](#sms配信システム新規開発laravelvuejsmysqlaws2020年10月11月)
-    - [車両状況モニタリングアプリ改修【Xamarin】（2020年9月）](#車両状況モニタリングアプリ改修xamarin2020年9月)
-    - [装置稼働状況監視システム新規機能追加【Laravel/Vue.js/PostgreSQL】（2020年7月〜8月）](#装置稼働状況監視システム新規機能追加laravelvuejspostgresql2020年7月8月)
-    - [車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜現在）](#車両状況モニタリングシステム運用保守postgresqlaws2020年7月現在)
-    - [タスク管理システム新規開発【Laravel/Vue.js/MySQL】（2020年4月〜6月）](#タスク管理システム新規開発laravelvuejsmysql2020年4月6月)
-  - [各種リンク](#各種リンク)
+- [スキル](#スキル)
+  - [言語](#言語)
+  - [フレームワーク等](#フレームワーク等)
+  - [データベース](#データベース)
+  - [クラウド](#クラウド)
+    - [AWS](#aws)
+    - [(GCP)](#gcp)
+  - [その他](#その他)
+- [主な業務経歴](#主な業務経歴)
+  - [車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜2021年1月）](#車両状況モニタリングシステム運用保守postgresqlaws2020年7月2021年1月)
+  - [SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜12月）](#sms配信システム新規開発laravelvuejsmysqlaws2020年10月12月)
+  - [車両状況モニタリングアプリ改修【Xamarin】（2020年9月）](#車両状況モニタリングアプリ改修xamarin2020年9月)
+  - [装置稼働状況監視システム新規機能追加【Laravel/Vue.js/PostgreSQL】（2020年7月〜8月）](#装置稼働状況監視システム新規機能追加laravelvuejspostgresql2020年7月8月)
+  - [タスク管理システム新規開発【Laravel/Vue.js/MySQL】（2020年4月〜6月）](#タスク管理システム新規開発laravelvuejsmysql2020年4月6月)
+- [各種リンク](#各種リンク)
 - [お仕事のご依頼](#お仕事のご依頼)
 
-## 業務経歴
+<!-- ## 概要
 
-### 概要
+バックエンドがメインのフルスタックエンジニア。業務では主にLaravel/Vue.js/AWSを使用。 -->
 
-バックエンドがメインのフルスタックエンジニア。業務では主にLaravel/Vue.js/AWSを使用。
-
-### スキル
+## スキル
 
 業務での経験がないものは括弧内に記載。
 
-#### 言語
+### 言語
 
-PHP/JavaScript/Java/C#/CSS/HTML(/Python/Go/Dart/Kotlin/Ruby/TypeScript)
+PHP/JavaScript/CSS/HTML/C#(/Python/Go/Dart/Kotlin/Ruby/TypeScript)
 
-#### フレームワーク等
+### フレームワーク等
 
-Laravel/Vue.js/Spring Boot/Xamarin/SCSS/Bootstrap(/Flutter/Android SDK/React)
+Laravel/Vue.js/SCSS/Bootstrap/Xamarin(/Flutter/Android SDK/React)
 
-#### データベース
+### データベース
 
 MySQL/PostgreSQL
 
-#### クラウド
+### クラウド
 
-##### AWS
+#### AWS
 
-VPC/IAM/EC2/RDS/SNS/SES/ACM/Route 53/CloudWatch(/S3)
+VPC/IAM/EC2/RDS/SNS/SES/ELB/ACM/Route 53/CloudWatch(/S3)
 
-##### (GCP)
+#### (GCP)
 
 (VPC/IAM/GCE/GCS/Cloud Functions/Cloud Pub/Sub/BigQuery)
 
-#### その他
+### その他
 
 Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 
-### 主な業務経歴
+## 主な業務経歴
 
-#### APIゲートウェイ新規開発【Spring Boot/PostgreSQL】（2020年12月〜2021年1月）
+### 車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜2021年1月）
 
-- モバイルアプリ間との認証を行うAPIゲートウェイの新規開発案件。
-- 1人で設計、実装、試験、リリースを担当。
-- Spring Bootは未経験であったが迅速にキャッチアップ。Bearerトークンを使用したAPIゲートウェイを構築した。
+- 当初、4名チームで保守を担当。10月以降、3名チームのリードエンジニアとして2名のマネジメントも兼務。
+- ZabbixやCloud Watchを使用した監視を実施。メモリ使用率に異常があった際には、メモリリークを特定し、対応作業を行った。また、ドキュメントを整備し、作業効率の向上に貢献した。
 
-#### SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜11月）
+### SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜12月）
 
 - 1人で設計、実装、試験、リリースを担当。
 - AWSは未経験であったが、迅速にキャッチアップし、EC2とRDSを使用した環境を構築。CSVファイルのインポート・エクスポート、バッチ処理でのSMSの配信機能を実装した。DB設計やマニュアルの作成、顧客への説明も担当した。
 
-#### 車両状況モニタリングアプリ改修【Xamarin】（2020年9月）
+### 車両状況モニタリングアプリ改修【Xamarin】（2020年9月）
 
 - Xamarinのモバイルアプリの改修案件。
 - 1人で実装、試験、リリースを担当。
 - Xamarinは未経験であったが、AndroidやFlutterでの開発経験を生かし、迅速にキャッチアップ。ログイン画面及びログイン維持機能の改修を行なった。
 
-#### 装置稼働状況監視システム新規機能追加【Laravel/Vue.js/PostgreSQL】（2020年7月〜8月）
+### 装置稼働状況監視システム新規機能追加【Laravel/Vue.js/PostgreSQL】（2020年7月〜8月）
 
 - IoT案件の事業者用管理画面の新規機能追加。
 - 5名チームで実装、試験を担当。
 - 既存サービスの管理画面に、表示カラムの選択機能やCSVでのダウンロード機能等を追加。
 
-#### 車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜現在）
-
-- 当初、4名チームで保守を担当。10月以降、3名チームのリードエンジニアとして2名のマネジメントも兼務。
-- ZabbixやCloud Watchを使用した監視を実施。メモリ使用率に異常があった際には、メモリリークを特定し、対応作業を行った。また、ドキュメントを整備し、作業効率の向上に貢献した。
-
-#### タスク管理システム新規開発【Laravel/Vue.js/MySQL】（2020年4月〜6月）
+### タスク管理システム新規開発【Laravel/Vue.js/MySQL】（2020年4月〜6月）
 
 - Redmineライクな社内タスク管理システムの新規開発案件。
 - 4名チームで実装、試験を担当。
 - Laravel/Vue.jsは未経験であったが迅速にキャッチアップ。データベースはMySQLを使用、バックエンドはLaravelでAPIを開発、フロントエンドはVue.jsでSPA化した。スマホ対応のレスポンシブデザインで、クライアント側でソートやフィルタ、ページネーションなどを行えるようにした。
 
-### 各種リンク
+## 各種リンク
 
 - [GitHub](https://github.com/MtDeity)
 - [Twitter](https://twitter.com/MtDeity)
@@ -113,8 +102,8 @@ Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim(/Docker)
 - 業務形態: 準委任契約で出社またはリモート（最寄り駅は渋谷駅）
 - 稼働: 2〜5日/週
 - 時間単価: 4000円〜/時
-- 業務では主にLaravel/Vue.js/AWSを使用していますが、GoやPython、Kotlinや英語を使用する案件にも興味があり（この場合、時間単価や稼働時間は条件を満たさなくても柔軟に対応可能です）、現在学習を進めています。
 - [TwitterのDM](https://twitter.com/messages/compose?recipient_id=1177206127823470593)等からご連絡ください。
+<!-- - 業務では主にLaravel/Vue.js/AWSを使用していますが、GoやPython、Kotlinや英語を使用する案件にも興味があり（この場合、時間単価や稼働時間は条件を満たさなくても柔軟に対応可能です）、現在学習を進めています。 -->
 
 </details>
 
