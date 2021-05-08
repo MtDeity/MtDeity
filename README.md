@@ -97,7 +97,7 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 - [Twitter](https://twitter.com/MtDeity)
 - [Qiita](https://qiita.com/MtDeity)
 - [LinkedIn](https://www.linkedin.com/in/satoshikamiyama)
-- [Wantedly](https://www.wantedly.com/id/satoshikamiyama)
+- [Wantedly](https://www.wantedly.com/users/136815137)
 - [LAPRAS](https://lapras.com/public/3XY5MWN)
 - [LeetCode](https://leetcode.com/MtDeity)
 - [AtCoder](https://atcoder.jp/users/mtdeity)
