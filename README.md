@@ -1,6 +1,7 @@
+<!--
 <details>
 <summary>
-    職務経歴書（最終更新日: 2021年5月8日）
+    職務経歴書（最終更新日: 2021年12月8日）
 </summary>
 
 - [スキル](#スキル)
@@ -23,15 +24,13 @@
 
 ## スキル
 
-業務での経験がないものは括弧内に記載。
-
 ### 言語
 
-Python/TypeScript/JavaScript/PHP/CSS/HTML/C#(/Go/Dart/Kotlin/Ruby)
+Python/TypeScript/JavaScript/PHP/Kotlin/CSS/HTML
 
 ### フレームワーク等
 
-Django/Node.js/Vue.js/Laravel/SCSS/Bootstrap/Xamarin(/Flutter/Android SDK/React)
+Django/Node.js/Vue.js/Laravel/SCSS/Android SDK
 
 ### データベース
 
@@ -42,10 +41,6 @@ MySQL/PostgreSQL
 #### AWS
 
 VPC/IAM/EC2/RDS/S3/SNS/SES/ELB/ACM/Route 53/CloudWatch
-
-#### (GCP)
-
-(VPC/IAM/GCE/GCS/Cloud Functions/Cloud Pub/Sub/BigQuery)
 
 ### その他
 
@@ -105,16 +100,17 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 - [teratail](https://teratail.com/users/MtDeity)
 - [Connpass](https://connpass.com/user/MtDeity)
 
-<!-- ## お仕事のご依頼
+## お仕事のご依頼
 
 - 業務形態: 準委任契約で出社またはリモート（最寄り駅は渋谷駅）
 - 稼働: 2〜5日/週
 - 時間単価: 4000円〜/時
-- [TwitterのDM](https://twitter.com/messages/compose?recipient_id=1177206127823470593)等からご連絡ください。 -->
+- [TwitterのDM](https://twitter.com/messages/compose?recipient_id=1177206127823470593)等からご連絡ください。
 
 </details>
 
 ---
+-->
 
 [![MtDeity's github stats](https://github-readme-stats.vercel.app/api?username=MtDeity&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
