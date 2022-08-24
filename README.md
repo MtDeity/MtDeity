@@ -1,16 +1,16 @@
 <!--
 <details>
 <summary>
-    職務経歴書（最終更新日: 2021年12月8日）
+    職務経歴書（最終更新日: 2022年8月25日）
 </summary>
 
+- [要約](#要約)
 - [スキル](#スキル)
   - [言語](#言語)
   - [フレームワーク等](#フレームワーク等)
   - [データベース](#データベース)
   - [クラウド](#クラウド)
     - [AWS](#aws)
-    - [(GCP)](#gcp)
   - [その他](#その他)
 - [主な業務経歴](#主な業務経歴)
   - [AI自動テストクラウドサービス開発【Django/TypeScript/AWS】（2021年2月〜現在）](#ai自動テストクラウドサービス開発djangotypescriptaws2021年2月現在)
@@ -22,6 +22,10 @@
 - [資格](#資格)
 - [各種リンク](#各種リンク)
 
+## 要約
+
+SIerでの業務アプリの開発経験、スタートアップでのAI自動テストクラウドサービスの開発経験があります。2社ともにフロントエンド、バックエンド、インフラを分けずに、プロジェクトや機能単位でアサインされるため、フルスタックで開発を行っており、新しい技術にも迅速にキャッチアップすることができます。マネジメント、常勤、リモートを経験しており、2021年からは英語環境で勤務しています。
+
 ## スキル
 
 ### 言語
@@ -30,7 +34,7 @@ Python/TypeScript/JavaScript/PHP/Kotlin/CSS/HTML
 
 ### フレームワーク等
 
-Django/Node.js/Vue.js/Laravel/SCSS/Android SDK
+Django/Node.js/Vue.js/Laravel/SCSS/Android SDK/React
 
 ### データベース
 
@@ -57,7 +61,7 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 ### 車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜2021年1月）
 
 - 当初、4名チームで保守を担当。10月以降、3名チームのリードエンジニアとして2名のマネジメントも兼務。
-- ZabbixやCloud Watchを使用した監視を実施。メモリ使用率に異常があった際には、メモリリークを特定し、対応作業を行った。また、ドキュメントを整備し、作業効率の向上に貢献した。
+- ZabbixやCloudWatchを使用した監視を実施。メモリ使用率に異常があった際には、メモリリークを特定し、対応作業を行った。また、ドキュメントを整備し、作業効率の向上に貢献した。
 
 ### SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜12月）
 
@@ -85,6 +89,7 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 ## 資格
 
 - AWS認定ソリューションアーキテクト–アソシエイト
+- Duolingo English Test 120点（参考: [スコアレポートの読み方 - Duolingo English Test](https://englishtest.duolingo.com/ja/scores)）
 
 ## 各種リンク
 
@@ -92,7 +97,7 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 - [Twitter](https://twitter.com/MtDeity)
 - [Qiita](https://qiita.com/MtDeity)
 - [LinkedIn](https://www.linkedin.com/in/satoshikamiyama)
-- [Wantedly](https://www.wantedly.com/users/136815137)
+- [Wantedly](https://www.wantedly.com/id/satoshikamiyama)
 - [LAPRAS](https://lapras.com/public/3XY5MWN)
 - [LeetCode](https://leetcode.com/MtDeity)
 - [AtCoder](https://atcoder.jp/users/mtdeity)
@@ -102,9 +107,12 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 
 ## お仕事のご依頼
 
-- 業務形態: 準委任契約で出社またはリモート（最寄り駅は渋谷駅）
-- 稼働: 2〜5日/週
-- 時間単価: 4000円〜/時
+- 契約形態: 準委任契約
+- 稼働時間: 〜月80時間
+- 稼働時間帯: 平日日中
+- 時間単価: 5000円〜/時
+- 勤務形態: リモートまたは出社
+- 居住地: 東京
 - [TwitterのDM](https://twitter.com/messages/compose?recipient_id=1177206127823470593)等からご連絡ください。
 
 </details>
@@ -117,23 +125,3 @@ Docker/Linux/Git/GitHub/GitLab/Nginx/Zabbix/Vim/Slack/Selenium/Appium/Mocha
 [![trophy](https://github-profile-trophy.vercel.app/?username=MtDeity)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MtDeity&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MtDeity&repo=MtDeity)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MtDeity&repo=leetcode-python)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-**MtDeity/MtDeity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
