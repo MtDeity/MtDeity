@@ -13,7 +13,7 @@
     - [AWS](#aws)
   - [その他](#その他)
 - [主な業務経歴](#主な業務経歴)
-  - [AI自動テストクラウドサービス開発【Django/TypeScript/AWS】（2021年2月〜現在）](#ai自動テストクラウドサービス開発djangotypescriptaws2021年2月現在)
+  - [AI自動テストクラウドサービス開発【Django/Node.js/React/AWS】（2021年2月〜現在）](#ai自動テストクラウドサービス開発djangotypescriptaws2021年2月現在)
   - [車両状況モニタリングシステム運用保守【PostgreSQL/AWS】（2020年7月〜2021年1月）](#車両状況モニタリングシステム運用保守postgresqlaws2020年7月2021年1月)
   - [SMS配信システム新規開発【Laravel/Vue.js/MySQL/AWS】（2020年10月〜12月）](#sms配信システム新規開発laravelvuejsmysqlaws2020年10月12月)
   - [車両状況モニタリングアプリ改修【Xamarin】（2020年9月）](#車両状況モニタリングアプリ改修xamarin2020年9月)
